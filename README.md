@@ -35,5 +35,5 @@
 
 ---
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mehmettgur&label=Profile%20views&color=0e75b6&style=flat" alt="mehmettgur" />
+  <img src="https://komarev.com/ghpvc/?username=mehmettgur&label=Profile+Views&color=000000&style=flat-square" alt="Profile Views" />
 </p>
